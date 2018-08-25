@@ -1,0 +1,2 @@
+# PhotoCapture
+Cordova App project
